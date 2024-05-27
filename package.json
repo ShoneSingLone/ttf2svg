@@ -1,0 +1,21 @@
+{
+  "name": "ttf-svg",
+  "version": "0.0.1",
+  "description": "Convert font from TTF format to SVG",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index"
+  },
+  "keywords": [
+    "ttf",
+    "svg",
+    "font",
+    "converter"
+  ],
+  "author": "hetsketch <al3xander.koval@gmail.com> (http://alexander-koval.ru)",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "1.0.0-rc.12",
+    "font-carrier": "^0.3.1"
+  }
+}
